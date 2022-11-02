@@ -4,15 +4,12 @@
 
 ## 🎒 구현 예시
 
----
 
 ![icon_component](https://user-images.githubusercontent.com/99635366/199469751-d300672a-d4bf-4c7d-a205-faf76abcc829.gif)
 
 <br>
 
 ## 🚀 사용 방법
-
----
 
 **1. 버튼을 사용하기 위해 ButtonComponent를 불러옵니다.**
 
